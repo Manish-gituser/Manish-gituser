@@ -1,4 +1,4 @@
-![Header](./Banner.png)
+
 # 👋 Hi, I’m Manish Yadav
 
 **Data Engineer | Databricks | PySpark | Spark SQL | Azure**
