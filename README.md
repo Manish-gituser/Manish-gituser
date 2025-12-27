@@ -24,3 +24,34 @@ Data Engineer with ~5 years of experience building scalable, production-grade da
 **Tools**
 - Git, GitHub, Airflow
 
+## 📌 Featured Projects
+
+### 🔹 Databricks Incremental ETL Pipeline
+- Built an end-to-end ETL pipeline using PySpark and Delta Lake
+- Implemented incremental loading and schema evolution
+- Optimized Spark performance using partitioning and broadcast joins
+
+### 🔹 Spark Performance Optimization
+- Reduced query runtime by 40%+
+- Applied data skew handling and join optimization techniques
+
+### 🔹 Azure Data Factory Orchestration
+- Designed metadata-driven pipelines
+- Integrated ADF with Databricks notebooks
+
+
+## 🏅 Certifications
+-Databricks Certified Data Engineer Professional
+-Microsoft Certified: Microsoft Fabric Data Engineer Associate
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Cloud Practitioner
+- Tableau Data Analyst / Specialist
+
+## 💼 Experience
+
+**Data Engineer – Genpact**
+- Building and optimizing data pipelines using Databricks and Spark
+- Supporting analytics and reporting workloads
+
+**Previous:** Tata Consultancy Services (TCS)
